@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:8
+-keep class pl.swiatowy.blog.MyBlogApp { <init>(...); }
+
